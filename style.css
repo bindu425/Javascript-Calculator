@@ -1,0 +1,38 @@
+input {
+    width:150px;
+    height:100px;
+    font-size:75px;
+    margin:10px;
+    background-color: #000;
+    color:#fff;
+    border-style:dashed;
+    border: 10px,20px,10px,20px;
+}
+
+#myform {
+margin-left:200px;
+margin-top:20px;
+}
+
+h1{
+text-align: center;
+font-size: 80px;
+margin-right: 150px;
+margin-top: 10px;
+}
+
+h1:hover {
+color:peru;
+
+
+}
+
+.button{
+    border-radius: 50%;
+}
+
+
+.button:hover{
+    background-color: gray;
+    
+}
